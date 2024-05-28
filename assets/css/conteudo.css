@@ -1,0 +1,30 @@
+.titulo{
+    margin-top: 150px;
+    margin-left: 200px;
+    width: 400px;
+    height: auto;
+}
+
+.texto{
+    font-size:small;
+    text-align:justify;
+    width:350px;
+    margin-left: 220px;
+}
+
+.background1{
+    height: 600px;
+    width: 605px;
+    position:absolute;
+    left: 760px;
+    bottom: 120px;
+    top: 10px;
+}
+
+.img1{
+    height: 400px;
+    width: 350px;
+    position: absolute;
+    left: 850px;
+    bottom: 130px;
+}
