@@ -1,32 +1,32 @@
-.logo{
-    margin-right: 100px;
+.logo {
+    position: sticky;
     margin-top: 20px;
 }
 
-.nav-link{
+.nav-link {
     color: rgb(37, 37, 156);
-    font-weight:600;
+    font-weight: 600;
+    position: relative;
     margin-top: 20px;
 }
 
-.select{
+.select {
     color: rgb(37, 37, 156);
     border-color: white;
-    font-weight:600;
-    margin-top: 20px;
+    font-weight: 600;
     width: 45px;
     position: absolute;
     left: 780px;
 }
 
-.botaoContato{
+.botaoContato {
     background-color: white;
     border-color: rgb(255, 255, 255);
     color: rgb(255, 0, 0);
     border-radius: 5px;
     width: 150px;
     height: 50px;
-    font-weight:600;
+    font-weight: 600;
     margin-top: 20px;
     position: absolute;
     left: 850px;
