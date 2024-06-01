@@ -23,6 +23,14 @@
     bottom: 40px;
 }
 
+.background2 {
+    height: 600px;
+    width: 606px;
+    position: absolute;
+    right: 743px;
+    bottom: 900px;
+}
+
 .img1 {
     height: 400px;
     width: 350px;
@@ -91,11 +99,11 @@
 }
 
 .cardApp {
-    width: 700px;
+    width: 410px;
+    height: 40px;
     position: absolute;
     right: 0px;
     top: 670px;
-    margin-right: 100px;
 
 }
 
@@ -119,14 +127,13 @@
     left: 200px;
     top: 1050px;
 
-
 }
 
 .ourCompanyTitle {
     color: rgb(212, 43, 43);
     font-size: small;
     position: absolute;
-    right: 500px;
+    right: 555px;
     top: 1050px;
 }
 
@@ -134,7 +141,43 @@
     color: rgb(37, 37, 156);
     font-size: xx-large;
     position: absolute;
-    right: 185px;
-    top: 1100px;
+    right: 400px;
+    top: 1080px;
+    width: 250px;
 
 }
+
+.text {
+    color: rgb(37, 37, 156);
+    position: absolute;
+    left: 700px;
+    top: 1190px;
+    width: 500px;
+ 
+}
+
+.creativeWorkTitle {
+    color: rgb(37, 37, 156);
+    width: 250px;
+    position: relative;
+    top: 400px;
+    left: 250px;
+
+}
+
+.col-lg-8 {
+    height: 500px;
+    position: absolute;
+    left: 270px;
+    top: 1600px;
+    justify-content: space-between;
+
+}
+
+.galeria {
+    background-color: rgb(255, 0, 0);
+    opacity: 0;
+    color: red;
+
+}
+
